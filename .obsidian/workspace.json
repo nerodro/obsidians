@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -185,14 +189,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "092249b82a57d37c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Devops/Linux/Безопастность/Ключ S.md",
     "Devops/Linux/Безопастность/chmod.md",
     "Devops/Linux/Безопастность/Права доступа.md",
-    "Devops/Linux/Безопастность/Ключ S.md",
     "Devops/Linux/Хранилище/ls.md",
     "Devops/Linux/Безопастность/Su.md",
     "Devops/Linux/Хранилище/Inode.md",
