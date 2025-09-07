@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Devops  ",
+      "color": {
+        "a": 1,
+        "rgb": 6443744
+      }
+    },
+    {
+      "query": "path:QA  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Книги  ",
+      "color": {
+        "a": 1,
+        "rgb": 6479954
+      }
+    },
+    {
+      "query": "path:Цели  ",
+      "color": {
+        "a": 1,
+        "rgb": 13652704
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10.4166666666667,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.8854989543150434,
+  "close": true
+}
